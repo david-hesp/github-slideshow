@@ -2,5 +2,14 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-The arrows do *nothing!*
+Go Right!
+---
+layout: slide
+title: "Page2"
+---
+Left or Right?
+---
+layout: slide
+title: "Another Page?!"
+---
+End of show.
